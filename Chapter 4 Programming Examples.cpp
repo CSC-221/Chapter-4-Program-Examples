@@ -1,4 +1,4 @@
-// Chapter 4 Programming Project.cpp : This file contains the 'main' function for the Speed of Sound in Gases program.
+// This program allows a person to determine the distance from a source of sound using various mediums.
 #include <iostream>
 #include <iomanip>
 
@@ -59,7 +59,7 @@ int main()
         cout << "Goodbye!" << endl;
         return(0);
     default:
-        cout << "Invalid input, enter a number between 1 and 4." << endl;
+        cout << "Invalid input, enter a number between 1 and 5." << endl;
         return(1);
     }
 
