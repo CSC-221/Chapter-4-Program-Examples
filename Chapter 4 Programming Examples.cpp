@@ -1,4 +1,4 @@
-// Chapter 4 Programming Project.cpp : This file contains the 'main' function for the Time Calculator program. 
+// This program converts a given number of seconds into days, hours, minutes, and seconds.
 
 #include <iostream>
 
