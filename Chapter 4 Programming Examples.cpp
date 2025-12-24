@@ -1,4 +1,5 @@
-// Chapter 4 Example Project.cpp : This file contains the 'main' function for the Software Sales program. 
+// This program calculates the total cost of software packages purchased, 
+// applying discounts based on the number of packages bought.
 
 #include <iostream>
 #include <iomanip>
