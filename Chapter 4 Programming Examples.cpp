@@ -1,4 +1,8 @@
-// Chapter 4 Example Project.cpp : This file contains the 'main' function for the Color Mixer program.
+// This program prompts the user to enter two primary colors (red, yellow, or blue) 
+// and then outputs the resulting secondary color when those two colors are mixed. 
+// If the user enters the same primary color twice, it simply returns that primary color. 
+// If the input does not consist of two valid primary colors, it informs the user of the invalid input.
+
 #include <iostream>
 #include<string>
 
