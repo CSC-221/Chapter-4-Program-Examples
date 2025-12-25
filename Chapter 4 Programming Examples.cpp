@@ -1,4 +1,7 @@
-// This program allows a person to determine the distance from a source of sound using various mediums.
+// This program determines the distance from a sound source 
+// based on the time it takes for the sound to reach the listener 
+// through different gases.
+
 #include <iostream>
 #include <iomanip>
 
